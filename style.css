@@ -16,6 +16,8 @@ body{
     }
     #allcards{
         width: 90vw;
+        justify-content: center;
+        margin-bottom: 10px;
     }
 
   }
